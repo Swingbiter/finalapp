@@ -15,4 +15,5 @@ There is an options menu allowing users to change how the program behaves.
 
 ## To-do
 Support settings between sessions.
+
 Support multiple log files and a way to browse the directory of log files
