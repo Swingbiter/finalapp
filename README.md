@@ -9,3 +9,6 @@ The app also provides a way to present the data saved in the log.
 
 There is an options menu allowing users to change how the program behaves.
 
+## Screenshots
+
+![Image] (https://i.imgur.com/pezDIWE.png)
