@@ -14,6 +14,5 @@ There is an options menu allowing users to change how the program behaves.
 ![Menu](https://i.imgur.com/pezDIWE.png)
 
 ## To-do
-Support settings between sessions.
-
-Support multiple log files and a way to browse the directory of log files
+1. Support settings between sessions.
+2. Support multiple log files and a way to browse the directory of log files
